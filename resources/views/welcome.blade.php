@@ -17,7 +17,7 @@
     <div class="container-sm">
         <header style="text-align:center; margin-top:50px;">
                 <img src="https://campusvirtual.poligran.edu.co/img/logopoli_w.png"width="20%" >
-                <h1>Proyecto IC Grupo 6</h1>
+                <h1>Proyecto IC Grupo 6 Saludo al profesor Oscar</h1>
             <h2>Gestionar Productos de Inventario</h2>
         </header>
         <hr>
